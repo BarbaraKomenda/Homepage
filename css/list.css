@@ -1,0 +1,16 @@
+.list {
+    padding: 15px;
+    color: darkgreen;
+    margin: 50px 0px 10px 0px;
+    font-weight: bolder;
+    text-align: left;
+    font-size: larger;
+    max-width: 1000px;
+    padding: 20px;
+    box-shadow: 2px 2px 8px #ccc;
+    margin: 20px auto;
+}
+
+.list__item {
+    margin: 20px 0px 10px 0px;
+}

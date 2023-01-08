@@ -1,0 +1,37 @@
+.navigation {
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 8px #ccc;
+    font-size: 20px;
+    text-shadow: 2px 4px #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.navigation__list {
+    list-style: none;
+    vertical-align: middle;
+    display: inline;
+    padding: auto;
+
+}
+
+.navigation__listItem {
+    vertical-align: middle;
+    display: inline;
+    padding: 15px;
+    margin-top: 80px auto;
+
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: black;
+
+}
+
+.navigation__link--code {
+    color: darkgreen;
+}

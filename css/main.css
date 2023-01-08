@@ -1,0 +1,12 @@
+.main__title {
+    color: darkgreen;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 3px 6px #eee;
+}
+
+.main__subTitle {
+    color: black;
+    text-align: center;
+    text-shadow: 2px 4px #ddd;
+}

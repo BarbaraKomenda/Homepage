@@ -1,0 +1,19 @@
+.article {
+    max-width: 1000px;
+    padding: 20px;
+    box-shadow: 2px 2px 8px #ccc;
+    margin: 20px auto;
+}
+
+.article__header {
+    color: darkgreen;
+}
+
+.article__paragraph {
+    color: black;
+}
+
+.article__important {
+    color: rgb(68, 96, 18);
+    font-weight: bolder;
+}
