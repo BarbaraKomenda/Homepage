@@ -1,6 +1,5 @@
 {
     const welcome = () => {
-
         console.log("Cześć! Dobrej zabawy!");
     }
     const toggleBackground = () => {
